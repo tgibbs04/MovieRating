@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Spring2025\ECE3574\HWs\A3_MovieRating\MovieRating\src\movie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Spring2025\ECE3574\HWs\A3_MovieRating\MovieRating\src\movie_factory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Spring2025\ECE3574\HWs\A3_MovieRating\MovieRating\test\test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Spring2025\ECE3574\HWs\A3_MovieRating\MovieRating\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B2CF0139-3EAE-3C09-91B1-ECE97F68DD5F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
