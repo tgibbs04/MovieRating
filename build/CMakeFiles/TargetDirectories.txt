@@ -1,5 +1,0 @@
-C:/Spring2025/ECE3574/HWs/A3_MovieRating/MovieRating/build/CMakeFiles/MovieRating.dir
-C:/Spring2025/ECE3574/HWs/A3_MovieRating/MovieRating/build/CMakeFiles/MovieRatingTest.dir
-C:/Spring2025/ECE3574/HWs/A3_MovieRating/MovieRating/build/CMakeFiles/RUN_TESTS.dir
-C:/Spring2025/ECE3574/HWs/A3_MovieRating/MovieRating/build/CMakeFiles/ALL_BUILD.dir
-C:/Spring2025/ECE3574/HWs/A3_MovieRating/MovieRating/build/CMakeFiles/ZERO_CHECK.dir
